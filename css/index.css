@@ -14,7 +14,7 @@
 
 /* start of navbar */
 #navbar{
-    padding: 10px;
+    padding: 20px;
     position: fixed;
     width: 100%;
     z-index: 2000000;
